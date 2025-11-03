@@ -1,0 +1,86 @@
+
+[
+  {
+    "id": "task-1",
+    "title": "Design Dashboard UI",
+    "description": "Create wireframes and mockups for the main dashboard using Figma.",
+    "dueDate": "2024-08-15",
+    "priority": "High",
+    "status": "Done",
+    "tags": ["design", "ui/ux"],
+    "createdAt": "2024-07-20T10:00:00Z",
+    "completedAt": "2024-07-25T14:30:00Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Develop Task Management Logic",
+    "description": "Implement CRUD functionality for tasks and state management.",
+    "dueDate": "2024-08-20",
+    "priority": "High",
+    "status": "In Progress",
+    "tags": ["development", "react"],
+    "createdAt": "2024-07-22T11:00:00Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Integrate Charting Library",
+    "description": "Add Recharts to visualize task data on the dashboard.",
+    "dueDate": "2024-08-25",
+    "priority": "Medium",
+    "status": "To-do",
+    "tags": ["development", "data-viz"],
+    "createdAt": "2024-07-24T09:00:00Z"
+  },
+  {
+    "id": "task-4",
+    "title": "Implement LocalStorage Persistence",
+    "description": "Ensure all tasks are saved to and loaded from the browser's localStorage.",
+    "dueDate": "2024-08-18",
+    "priority": "High",
+    "status": "Done",
+    "tags": ["development", "feature"],
+    "createdAt": "2024-07-26T16:00:00Z",
+    "completedAt": "2024-07-28T18:00:00Z"
+  },
+  {
+    "id": "task-5",
+    "title": "Setup Responsive Design",
+    "description": "Make the application fully responsive for mobile, tablet, and desktop views.",
+    "dueDate": "2024-08-30",
+    "priority": "Medium",
+    "status": "In Progress",
+    "tags": ["design", "css"],
+    "createdAt": "2024-07-28T13:00:00Z"
+  },
+  {
+    "id": "task-6",
+    "title": "Write Unit Tests",
+    "description": "Add unit tests for critical components and utility functions.",
+    "dueDate": "2024-09-05",
+    "priority": "Low",
+    "status": "To-do",
+    "tags": ["testing", "qa"],
+    "createdAt": "2024-07-30T10:00:00Z"
+  },
+  {
+    "id": "task-7",
+    "title": "Deploy to GitHub Pages",
+    "description": "Prepare the project for deployment and host it on GitHub Pages.",
+    "dueDate": "2024-09-10",
+    "priority": "Low",
+    "status": "To-do",
+    "tags": ["deployment", "devops"],
+    "createdAt": "2024-08-01T12:00:00Z"
+  },
+    {
+    "id": "task-8",
+    "title": "Review User Feedback",
+    "description": "Gather feedback from initial users and plan for the next iteration.",
+    "dueDate": "2024-08-10",
+    "priority": "Medium",
+    "status": "Done",
+    "tags": ["planning", "feedback"],
+    "createdAt": "2024-08-02T15:00:00Z",
+    "completedAt": "2024-08-05T11:00:00Z"
+  }
+]

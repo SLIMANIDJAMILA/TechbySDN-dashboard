@@ -1,0 +1,5 @@
+{
+  "name": "Task Management Dashboard",
+  "description": "A modern, responsive task management web application with a built-in data visualization dashboard. All data is stored client-side in the browser's localStorage, making it perfect for static hosting.",
+  "requestFramePermissions": []
+}
